@@ -1,6 +1,10 @@
 # Identicon
 
-**TODO: Add description**
+An Elixir library that generates an identicon image from a string.
+example:
+```elixir
+  Identicon.main("shadat")
+```
 
 ## Installation
 

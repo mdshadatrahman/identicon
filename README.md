@@ -5,6 +5,9 @@ example:
 ```elixir
   Identicon.main("shadatrahman")
 ```
+
+It will generate an image like this:
+
 ![shadatrahman](https://github.com/user-attachments/assets/8e2441ed-3df1-4575-9911-c8d889c20c7b)
 
 

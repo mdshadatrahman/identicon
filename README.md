@@ -3,8 +3,11 @@
 An Elixir library that generates an identicon image from a string.
 example:
 ```elixir
-  Identicon.main("shadat")
+  Identicon.main("shadatrahman")
 ```
+![shadatrahman](https://github.com/user-attachments/assets/8e2441ed-3df1-4575-9911-c8d889c20c7b)
+
+
 
 ## Installation
 

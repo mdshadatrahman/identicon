@@ -1,7 +1,7 @@
 # Identicon
 
 An Elixir library that generates an identicon image from a string.
-example:
+##### Example:
 ```elixir
   Identicon.main("shadatrahman")
 ```
